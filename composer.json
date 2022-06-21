@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name" : "Įmonė",
+    "description" : "OOP antra užduotis",
+    "psr-4" : {
+      "ENTERPRISE\\" : "class"
+    }
+  }
+}
